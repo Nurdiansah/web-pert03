@@ -50,8 +50,8 @@ if (isset($_POST['simpan'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web2 | Nurdiansah </title>
 
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="grid.css">
+    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="../assets/grid.css">
 </head>
 
 <body>
